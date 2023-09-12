@@ -15,6 +15,6 @@ Enroll mutiple users using a .csv file containing list of names and file paths r
 ## Recognition:
 Authenticate a user if it matches voice prints saved on the disk
 
-``C:\Users\Desktop\Voice-Recognition-CNN>python voice_auth.py -t recognize -f C:\path\to\audio\audio.flac``
+``C:\Users\Desktop\Voice-Recognition-CNN>python voice_auth.py -t recognize -r``
 
 
